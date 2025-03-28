@@ -28,3 +28,6 @@ venv/
 Thumbs.db
 
 **/node_modules/
+
+archive (1).zip
+AgerAmicus-backend/Lib/site-packages/clang/native/libclang.dll
