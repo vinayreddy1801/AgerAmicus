@@ -82,4 +82,18 @@ Modern agriculture faces critical challenges: crop diseases, unpredictable weath
 ---
 
 ## 📁 Repo Structure
+AgerAmicus/ ├── AgerAmicus-backend/ │ ├── main.py │ ├── chatbot_main.py │ ├── models/ │ └── .env (excluded) ├── ageramicus-frontend/ (UI in progress) ├── dataset/ (excluded from GitHub) ├── plantVillage_model_10.h5 (excluded) ├── AgerAmicus_Pitch.pptx └── README.md
+
+
+---
+
+## 🤝 Team
+
+Built with 💚 by [Vinay Reddy](https://github.com/vinayreddy1801)  && [Snigdha Reddy]
+_University of North Texas | Data Science_
+
+---
+
+> ⚠️ Note: Sensitive files like `.env`, large models, and datasets are excluded from this repository per best practices.
+
 
