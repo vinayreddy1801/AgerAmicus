@@ -89,7 +89,7 @@ AgerAmicus/ ├── AgerAmicus-backend/ │ ├── main.py │ ├── ch
 
 ## 🤝 Team
 
-Built with 💚 by [Vinay Reddy](https://github.com/vinayreddy1801)  && [Snigdha Reddy]
+Built with 💚 by [Vinay Reddy](https://github.com/vinayreddy1801)  && [Snigdha Reddy(https://github.com/snigdhareddy482)]
 _University of North Texas | Data Science_
 
 ---
